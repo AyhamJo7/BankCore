@@ -50,7 +50,7 @@ BankCore is built using a modular architecture with the following components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BankCore.git
+   git clone https://github.com/AyhamJo7/BankCore.git
    cd BankCore
    ```
 
